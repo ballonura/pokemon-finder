@@ -1,6 +1,14 @@
-# poke-finder
+# Demo
 
-## Build Setup
+```bash
+https://pokemon-finder-ecru.vercel.app/
+```
+
+### Preview
+
+![Preview Pokemon Finder](https://i.ibb.co/ByDQcDC/1.jpg)
+
+# Build Setup
 
 ```bash
 # install dependencies
@@ -16,5 +24,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
